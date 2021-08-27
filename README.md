@@ -1,6 +1,6 @@
 # Screenshot of the Page
 
-![alt text](images/screenshot.png)
+![alt text](src/images/screenshot.png)
 
 # Getting Started with Create React App
 
