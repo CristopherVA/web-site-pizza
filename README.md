@@ -1,6 +1,6 @@
 # Screenshot of the Page
 
-![Alt text](/image/screenshot.jpg?raw=true "Ecommerce Web Site")
+![Alt text](/images/screenshot.jpg?raw=true "Ecommerce Web Site")
 
 # Getting Started with Create React App
 
