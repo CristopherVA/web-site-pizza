@@ -1,3 +1,7 @@
+# Screenshot of the Page
+
+![Alt text](/image/screenshot.jpg?raw=true "Ecommerce Web Site")
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
