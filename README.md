@@ -1,4 +1,4 @@
-# Screenshot of the Page
+# Screenshot of the Web site
 
 ![alt text](src/images/screenshot.png)
 
